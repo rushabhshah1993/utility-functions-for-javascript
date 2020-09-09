@@ -6,7 +6,7 @@ This repository contains some useful utility functions for JavaScript.
 
 Have you come across a scenario where you had to spend a lot of time writing code for something which is super trivial and potentially not an important part of the application you are creating?
 
-How about converting temperature from °C to °F? Or how about a adding commas at the appropriate places in a number like 123,000? Or even yet, how about simply generating a random number between 15000 and 25000?
+Think about converting temperature from °C to °F? Or adding commas at the appropriate places in a number like 123,000? Or even yet, how about simply generating a random number between 15000 and 25000?
 
 This repositiory is for those sidekicks which make our coding life simpler!
 
